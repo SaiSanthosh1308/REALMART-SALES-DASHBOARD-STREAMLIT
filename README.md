@@ -2,8 +2,8 @@
 
 An interactive sales analytics dashboard built with **Python + Streamlit**, upgraded from an earlier Excel/Pivot Table version. Analyzes 2,000+ retail transactions across 3 cities and 3 branches.
 
-🔗 **Live demo:** _[add your Streamlit Community Cloud link here after deploying]_
-📊 **Excel version:** _[link to your original Excel repo]_
+🔗 **Live demo:** [https://realmart-sales-dashboard-app-agtwajplkp5nie2urrbrqx.streamlit.app/]
+📊 **Excel version:** [https://github.com/SaiSanthosh1308/REALMART-SALES-DASHBOARD]
 
 ## Features
 

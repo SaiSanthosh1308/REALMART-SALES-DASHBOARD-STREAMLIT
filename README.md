@@ -38,3 +38,7 @@ Retail transaction data covering branch, city, product line, customer type, gend
 ## About This Project
 
 This is a Python/Streamlit rebuild of an Excel dashboard I originally built for the same dataset — part of a broader effort to move from static Excel reporting to interactive, code-driven analytics tools as I build toward a data analyst role.
+
+## 📸 Dashboard Preview
+
+Realmart Sales Dashboard Preview <img width="1400" height="1200" alt="dashboard1" src="https://github.com/user-attachments/assets/5fcf2c7e-fe03-4c44-b1ba-9545d8561606" />

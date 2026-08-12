@@ -41,4 +41,4 @@ This is a Python/Streamlit rebuild of an Excel dashboard I originally built for 
 
 ## 📸 Dashboard Preview
 
-Realmart Sales Dashboard Preview <img width="1400" height="1200" alt="dashboard1" src="https://github.com/user-attachments/assets/5fcf2c7e-fe03-4c44-b1ba-9545d8561606" />
+ **Realmart Sales Dashboard Preview** <img width="1400" height="1200" alt="dashboard1" src="https://github.com/user-attachments/assets/5fcf2c7e-fe03-4c44-b1ba-9545d8561606" />
